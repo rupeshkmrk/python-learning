@@ -1,0 +1,69 @@
+python is general purpose programing language developed by Guidi Van Rossum in 1989 and released in 1991.
+At runtime type is automatically 
+
+a = 10;
+print(type(a));
+
+Guide like "The Complete Monty Python's Circus" broadcasted on BBC.
+
+
+Feature of Python language (interview question)
+-----------------------------------------------
+C is function programing language.
+Java, C++ are OOP language.
+Perl, Shell are scripting language.
+Python is function, OOP and scripting language & modular programing features from Modula 3. 
+
+scripting language : Group of lines executed one by one.
+Python as scripting language
+
+
+Syntax is borrowed from C and ABC language
+
+
+Where we can use Python
+-----------------------
+1) To develop desktop applications.
+2) To develop web applications.
+3) To develop network applications.
+4) To develop game applications.
+5) Data Analysis
+6) Machine Learning
+7) AI
+8) IOT ... etc
+
+
+Companies Using Python
+----------------------
+Google
+Yahoo
+NASA
+Netflix
+Dropbox
+Facebook
+Instagram
+Bit torrent ... etc
+
+Python contains only 33 reserved words. 
+Concise code (less code) in python --> reduce development time and cost of development.
+
+Python is freeware and open source.
+PSF is responsible for maintenance of python. (Python Software Foundation).
+Freeware : No need to pay single peny 
+Open Source : Source code is open and available to every one. can be customized source code.  
+
+java 11 is paid version. 
+
+Flavours of Python 
+Jython : to work with java applications
+Iron Python : to work with C# applications
+Anaconda Python : to work with Big Data applications
+
+Python is high level programming language
+------------------------------------------
+PVM -   Python Virtual Machine take cares of low level management like memory management.
+
+Python is platform independent 
+
+Dynamically Typed
+-----------------
